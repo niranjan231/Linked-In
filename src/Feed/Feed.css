@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.feed-3{
+    display: flex;
+ position: relative;
+
+}
+.feed-1{
+    width: 650px;
+    height: 125px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 20px;
+   
+    /* margin-left: 400px;
+    margin-top: 10px; */
+
+}
+.feed-2{
+    display: flex;
+    justify-content: space-around;
+    font-size: 15px;
+    align-items: center;
+   /* position: absolute; */
+   margin-top: 20px;
+   
+}
+.feed-2 span{
+    text-align: center;
+}
+.feed-img{
+    height: 50px; margin-left: 35px;
+    margin-top: 10px;
+}
+/* form{
+   
+} */
+ form input{
+    width: 500px;
+    height: 40px;
+    border-radius: 30px;
+    margin-left: 10px;
+border: 0.1px solid #ccc;
+text-align: center;
+margin-top: 10px;
+margin-left: 25px;
+  
+
+   /* border-color: gray; */
+ }
+
+ /* .feed-btn{
+    visibility: hidden;
+ } */
