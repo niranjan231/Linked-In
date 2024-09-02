@@ -39,6 +39,7 @@ const Header=()=>{
 </div>
 <div className="headers-logo">
 <IoNotifications /><span>Notifaction</span>
+<div className="header-notifaction">7</div>
 </div>
 <div className="headers-logo">
 <MdAddAPhoto /><span>Notifaction</span>
