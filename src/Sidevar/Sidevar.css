@@ -1,0 +1,33 @@
+.sidevar-1{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left:60px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.side-img-1{
+    width: 250px;
+    height: 70px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    position: relative;
+    cursor: pointer;
+}
+.side-img-2{
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    position: relative;
+    bottom: 40px;
+    cursor: pointer;
+}
+h5{
+    font-weight: 400;
+}
+p{
+    font-weight: 300;
+    font-size: 15px;
+}
