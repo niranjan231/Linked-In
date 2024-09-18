@@ -8,11 +8,12 @@
 
 }
 .feed-1{
-    width: 650px;
+    width: 685px;
     height: 125px;
     background-color: white;
     border-radius: 10px;
-    margin-left: 20px;
+    margin-left: 35px;
+    position: relative;
    
     /* margin-left: 400px;
     margin-top: 10px; */
@@ -33,19 +34,23 @@
 .feed-img{
     height: 50px; margin-left: 35px;
     margin-top: 10px;
+    border-radius: 50px;
 }
 /* form{
    
 } */
  form input{
-    width: 500px;
-    height: 40px;
+    width: 550px;
+    height: 50px;
     border-radius: 30px;
     margin-left: 10px;
 border: 0.1px solid #ccc;
 text-align: center;
 margin-top: 10px;
 margin-left: 25px;
+cursor: pointer;
+background-color: rgba(0, 0, 0, 0.066);
+font-size: 18px;
   
 
    /* border-color: gray; */
@@ -54,3 +59,46 @@ margin-left: 25px;
  /* .feed-btn{
     visibility: hidden;
  } */
+
+ .feed-click2{
+    width: 685px;
+    height: 200px;
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 35px;
+    border-radius: 10px;
+ }
+ .click2-div{
+    display: flex;
+    /* margin-left: 25px; */
+ }
+ .click2-img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-top: 20px;
+ }
+ .click2-div h3{
+    font-weight: 500;
+    font-size: 23px;
+    margin-left: 15px;
+    margin-top: 20px;
+ }
+ .feed-click2 h4{
+    font-size: 20px;
+    font-weight: 400;
+    text-align: start;
+    margin-left: 30px;
+    margin-top: 30px;
+ }
+ .click2-font{
+    display: flex;
+    justify-content: space-around;
+    font-size: 23px;
+    margin-top: 25px;
+ }
+ .click2-font span{
+    display: flex;
+    align-items: center;
+ }

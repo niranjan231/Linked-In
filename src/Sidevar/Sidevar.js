@@ -16,7 +16,7 @@ const Sidevar=()=>{
         <div className="sidevar-1">
             <div className="side-img">
                 <img className="side-img-1" src="https://media.licdn.com/dms/image/v2/D4D16AQGRMPaWW9N8AA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1674849632924?e=1730937600&v=beta&t=zllPk9EbBJyR5wQwD6IQBJYFySuvebe1y7BJ5LFmGko"></img>
-                <img className="side-img-2" src="https://vectorified.com/images/avatar-icon-png-24.png"></img>
+                <img className="side-img-2" src="https://media.licdn.com/dms/image/v2/D5603AQELQOg-2wKgig/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718210354331?e=1732147200&v=beta&t=y9xd47f3Ix99qbHspAQG3PyRb4Hp6JiR90xWzYTlySM"></img>
             </div>
             <div>
                 <h3>Sumit Sharma</h3>

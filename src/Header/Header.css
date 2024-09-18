@@ -20,6 +20,7 @@
 
 .header-left{
     display: flex;
+    position: relative;
    
  
 }
